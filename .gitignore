@@ -1,13 +1,13 @@
 
 
 # dependencies
-/Client/shop/node_modules
+/Client/node_modules
 /Backend/node_modules
 
 
 # testing
-/Client/shop/coverage
+/Client/coverage
 
 # production
-/Client/shop/build
+/Client/build
 
