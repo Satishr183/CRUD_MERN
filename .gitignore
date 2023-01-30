@@ -1,0 +1,13 @@
+
+
+# dependencies
+/Client/shop/node_modules
+/Backend/node_modules
+
+
+# testing
+/Client/shop/coverage
+
+# production
+/Client/shop/build
+
